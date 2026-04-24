@@ -1,0 +1,11 @@
+AID,DID,DLN,Plate Number,Type,Description,Location,Time,Date,No. Passengers,Seat belts?,No. Injured,No. Fatalities,Reporting Officer,Officer's District
+A0001,D0015,DL0013,HC 8796,Reckless Driving,Reckless Driving accident,New Amsterdam,05:53,18-03-2022,9,No,1,0,Officer Graham,Region 3
+A0002,D0005,DL0013,PMM 7076,Reckless Driving,Reckless Driving accident,Georgetown,19:59,13-04-2025,6,Yes,1,0,Officer Ward,Region 10
+A0003,D0007,DL0003,PNN 5239,Negligent Driver,Negligent Driver accident,New Amsterdam,20:53,05-01-2025,5,Yes,3,2,Officer Williams,Region 3
+A0004,D0014,DL0008,PJJ 6959,Hit and Run,Hit and Run accident,New Amsterdam,23:44,10-07-2021,8,No,4,1,Officer Duffy,Region 3
+A0005,D0003,DL0013,PJJ 7678,Hit and Run,Hit and Run accident,Linden,02:51,11-03-2022,9,No,5,0,Officer Powell,Region 3
+A0006,D0004,DL0016,PMM 7076,Reckless Driving,Reckless Driving accident,New Amsterdam,23:23,11-08-2021,6,No,3,1,Officer Swanson,Region 10
+A0007,D0011,DL0007,PPP 8426,Reckless Driving,Reckless Driving accident,New Amsterdam,12:00,02-01-2020,10,No,2,1,Officer Pope,Region 6
+A0008,D0001,DL0015,PNN 5239,Other,Other accident,Georgetown,15:26,25-05-2020,3,Yes,2,1,Officer Jackson,Region 3
+A0009,D0003,DL0011,HD 9841,Unlicensed Driver,Unlicensed Driver accident,New Amsterdam,17:54,02-02-2022,2,No,1,0,Officer Acosta,Region 6
+A0010,D0017,DL0010,PJJ 7387,Other,Other accident,Georgetown,02:23,27-08-2023,3,No,4,2,Officer Adams,Region 3
